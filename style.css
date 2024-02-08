@@ -102,3 +102,7 @@ p {
   border-radius: 6px;
   border-color: #6c63ff;
 }
+
+.container {
+  text-align: center;
+}
