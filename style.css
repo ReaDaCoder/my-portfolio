@@ -101,6 +101,7 @@ p {
   margin-top: 23px;
   border-radius: 6px;
   border-color: #6c63ff;
+  display: block;
 }
 
 .container {
